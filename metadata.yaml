@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35937
     wikipedia: http://en.wikipedia.org/wiki/Ellis_Spear
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32604#The-Story-of-the-Raising-and-Organization-of-a-Regiment-of-Volunteers-in-1862Military-Order-o_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
